@@ -1,0 +1,37 @@
+.group {
+    display: flex;
+    align-items: center;
+}
+footer {
+    height: 200px;
+      margin-top: 170px;
+      position: relative;
+      background: #FAFAFA;
+  }
+  hr {
+    border: 1px solid #D8D8D8;
+  background: #FAFAFA;
+  }
+  ul {
+    display: flex;
+      justify-content: space-between;
+      width: 126.76px;
+      list-style-type: none;
+      gap: 30px;
+      align-items: center;
+      padding-left: 300px;
+  }
+  .yellow {
+    top: 0;
+    position: absolute;
+    right: 0;
+  }
+  .green {
+    position: absolute;
+    top: 0;
+    right: 127px;
+  }
+  .pink {
+    position: absolute;
+    bottom: 0;
+  }

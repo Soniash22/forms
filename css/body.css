@@ -1,0 +1,89 @@
+.form_title {
+    color: #3e3e3e;
+    font-family: Apercu Arabic Pro;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%; /* 52px */
+    padding-top: 150px;
+    
+  }
+  .name {
+    padding: 30px 420px 30px 45px;
+    border-radius: 10px;
+    border: 1px solid #dcdcdc;
+    background: #fff;
+    outline: none;
+    width: 557px;
+  }
+  .form_join {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .message {
+    padding: 30px 400px 125px 45px;
+    border-radius: 10px;
+    border: 1px solid #dcdcdc;
+    background: #fff;
+    outline: none;
+    resize: none;
+  }
+  .form_btn {
+    border-radius: 500px;
+    background: #fad34f;
+    width: 218px;
+    height: 73px;
+    border: none;
+    
+  
+    color: #fff;
+    font-family: Apercu Arabic Pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  .all {
+    width: 563px;
+    height: 575px;
+  }
+  .yellow_form {
+    width: 88.32px;
+    height: 85.844px;
+    transform: rotate(-35.193deg);
+    flex-shrink: 0;
+    position: absolute;
+      top: 23px;
+      left: 25px;
+  }
+  .yellowbig_form {
+      width: 127px;
+  height: 127px;
+  transform: rotate(357deg);
+  position: absolute;
+      bottom: 0;
+      left: 68%;
+      bottom: 194px;
+      z-index: 1;
+  }
+  .pink_form {
+      
+  transform: rotate(356.637deg);
+  
+  }
+  form {
+      background: #fff;
+      
+  
+  }
+  section {
+      background: url(../img/map.png) right top/contain no-repeat;
+      position: relative;
+      
+  }
+  .pink_form {
+      left: 66%;
+      position: absolute;
+      bottom: -18px;
+  }
