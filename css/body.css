@@ -5,7 +5,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: 130%; /* 52px */
-    padding-top: 150px;
+    
     
   }
   .name {
@@ -80,6 +80,7 @@
   section {
       background: url(../img/map.png) right top/contain no-repeat;
       position: relative;
+      padding: 150px 0 0;
       
   }
   .pink_form {
